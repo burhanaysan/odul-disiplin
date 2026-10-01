@@ -1,7 +1,7 @@
 {
   "v": 1,
   "tarih": "2026-10-01",
-  "notlar": "İlk yayın (v1.1.0): imzalı güncelleme kanalı denemesi.",
+  "notlar": "",
   "arayuz": {
     "surum": "1.1.1",
     "en_az_exe": "1.1.0",
@@ -12,10 +12,11 @@
   "yeni_exe": {
     "surum": "1.1.0",
     "indirme": "https://github.com/burhanaysan/odul-disiplin/raw/main/indir/OdulDisiplinProgrami_v1.1.0.zip",
-    "sha256": "f4d3f3b8fac3e072f3d771e625c9101f47e5d3593cf29d1467bb4d474313938f",
-    "notlar": "İlk yayın (v1.1.0): imzalı güncelleme kanalı denemesi."
+    "sha256": "8610b45525f3538dc5fbd65da00df7a3fd31b2b7c86dfdc3ff3c382aae059225",
+    "notlar": ""
   },
   "uzatmalar": [
-    "ODU1-eyJiIjoiMjAyNy0wOS0zMCIsImsiOiIxNzUzMDIiLCJzIjoiT0RQLTE3NTMwMi0wMDEifQ.Jqy7sJLd2AyATwMv445VG3kCeSYcvVdPxveeVL_AKuDtPocGTvpt30_4u0o1wU1lgPNtR0ZDV-ISu5jXBf6GBg"
+    "ODU1-eyJiIjoiMjAyNy0wOS0zMCIsImsiOiIxNzUzMDIiLCJzIjoiT0RQLTE3NTMwMi0wMDEifQ.Jqy7sJLd2AyATwMv445VG3kCeSYcvVdPxveeVL_AKuDtPocGTvpt30_4u0o1wU1lgPNtR0ZDV-ISu5jXBf6GBg",
+    "ODU1-eyJiIjoiMjAyNy0wOS0zMCIsImsiOiI5OTkwMDEiLCJzIjoiT0RQLTk5OTAwMS0xIn0.qMf1r_SibesNgl8SK17ZjjzpFm_fFgdVpQdi8njPl6qDA_u2Vqfrwr0HX-qatOldnmVLODm5IiznDaBQF-uHDw"
   ]
 }
