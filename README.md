@@ -17,7 +17,7 @@ Dosyanın bozulmadığını denetlemek için (PowerShell):
 Get-FileHash .\OdulDisiplinProgrami_v1.1.0.zip -Algorithm SHA256
 ```
 
-Beklenen SHA-256: `1885b1d0f598a89cb9c69f3696b1aa7a70a666b0113e72c07b687ba0f5aec989`
+Beklenen SHA-256: `8261c6c6afb485066a81368c06150cf91f9b9ab6a2876c73accc0bb403fee888`
 
 Kurulum ve kullanım ayrıntıları zip içindeki `OKUBENI.txt` dosyasındadır.
 

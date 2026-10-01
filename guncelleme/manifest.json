@@ -12,11 +12,15 @@
   "yeni_exe": {
     "surum": "1.1.0",
     "indirme": "https://github.com/burhanaysan/odul-disiplin/raw/main/indir/OdulDisiplinProgrami_v1.1.0.zip",
-    "sha256": "1885b1d0f598a89cb9c69f3696b1aa7a70a666b0113e72c07b687ba0f5aec989",
+    "sha256": "8261c6c6afb485066a81368c06150cf91f9b9ab6a2876c73accc0bb403fee888",
     "notlar": ""
   },
   "uzatmalar": [
     "ODU1-eyJiIjoiMjAyNy0wOS0zMCIsImsiOiIxNzUzMDIiLCJzIjoiT0RQLTE3NTMwMi0wMDEifQ.Jqy7sJLd2AyATwMv445VG3kCeSYcvVdPxveeVL_AKuDtPocGTvpt30_4u0o1wU1lgPNtR0ZDV-ISu5jXBf6GBg",
     "ODU1-eyJiIjoiMjAyOC0wOS0zMCIsImsiOiI5OTkwMDEiLCJzIjoiT0RQLTk5OTAwMS0yIn0.ojRR3qg2XvoMFT1IKSuQwljyqfQEIJ4yyaHvQ6h4hCMdfa1Y-WiYZ4my1myTCAGPG9B1YpVLSlpfoEaAyIeADA"
+  ],
+  "tavanlar": [
+    "175302:2027-09-30",
+    "999001:2028-09-30"
   ]
 }
