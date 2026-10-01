@@ -1,7 +1,7 @@
 {
   "v": 1,
   "tarih": "2026-10-01",
-  "notlar": "Lisans yenileme",
+  "notlar": "Lisans düzeltmesi",
   "arayuz": {
     "surum": "1.1.2",
     "en_az_exe": "1.1.0",
@@ -17,6 +17,6 @@
   },
   "uzatmalar": [
     "ODU1-eyJiIjoiMjAyNy0wOS0zMCIsImsiOiIxNzUzMDIiLCJzIjoiT0RQLTE3NTMwMi0wMDEifQ.Jqy7sJLd2AyATwMv445VG3kCeSYcvVdPxveeVL_AKuDtPocGTvpt30_4u0o1wU1lgPNtR0ZDV-ISu5jXBf6GBg",
-    "ODU1-eyJiIjoiMjAyOS0wOS0zMCIsImsiOiI5OTkwMDEiLCJzIjoiT0RQLTk5OTAwMS0zIn0.VZxv6riKE-xjEBeZWuX6uU414kz4KRI9GJ5DfhzyEcfCW4kgt03EybDeEe8rP9v_GxvMlq5iDXKvQzdhQjPDBQ"
+    "ODU1-eyJiIjoiMjAyOC0wOS0zMCIsImsiOiI5OTkwMDEiLCJzIjoiT0RQLTk5OTAwMS0yIn0.ojRR3qg2XvoMFT1IKSuQwljyqfQEIJ4yyaHvQ6h4hCMdfa1Y-WiYZ4my1myTCAGPG9B1YpVLSlpfoEaAyIeADA"
   ]
 }
