@@ -3,16 +3,16 @@
   "tarih": "2026-10-01",
   "notlar": "",
   "arayuz": {
-    "surum": "1.1.1",
+    "surum": "1.1.2",
     "en_az_exe": "1.1.0",
-    "dosya": "arayuz_1.1.1.json",
-    "sha256": "0313126167c5ccc089035a9eb8825adc5333300ee975faf27f29e91d54ec8b95",
-    "boyut": 323034
+    "dosya": "arayuz_1.1.2.json",
+    "sha256": "6164517aa1d7ce516ba8e8b2d2790f9a651bb3d10400db443875643800c91d87",
+    "boyut": 323646
   },
   "yeni_exe": {
     "surum": "1.1.0",
     "indirme": "https://github.com/burhanaysan/odul-disiplin/raw/main/indir/OdulDisiplinProgrami_v1.1.0.zip",
-    "sha256": "8610b45525f3538dc5fbd65da00df7a3fd31b2b7c86dfdc3ff3c382aae059225",
+    "sha256": "d1486011b1022b127e4a018d418bfee6b5ae50257d31cf23d5d4747f93aee7d5",
     "notlar": ""
   },
   "uzatmalar": [
