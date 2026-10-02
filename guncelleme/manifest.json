@@ -1,20 +1,27 @@
 {
   "v": 1,
-  "tarih": "2026-10-01",
+  "tarih": "2026-10-02",
   "notlar": "",
   "arayuz": {
-    "surum": "1.1.3",
-    "en_az_exe": "1.1.0",
-    "dosya": "arayuz_1.1.3.json",
-    "sha256": "cf1b4e43153da4c1091d7a3ce339b296f2931192941b370392aa3e7bbc7dd9d1",
-    "boyut": 324414
+    "surum": "1.2.1",
+    "en_az_exe": "1.2.0",
+    "dosya": "arayuz_1.2.1.json",
+    "sha256": "54481c674a3510cfe95e447931627500d0451e17ed804effee84beb19f16188a",
+    "boyut": 354622
   },
   "yeni_exe": {
-    "surum": "1.1.0",
-    "indirme": "https://github.com/burhanaysan/odul-disiplin/raw/main/indir/OdulDisiplinProgrami_v1.1.0.zip",
-    "sha256": "c6a5d23b7d93ab7162f49bf4778eb29ea82083a438567e0119dc2f203fdf68b7",
+    "surum": "1.2.0",
+    "indirme": "https://github.com/burhanaysan/odul-disiplin/raw/main/indir/OdulDisiplinProgrami_v1.2.0.zip",
+    "sha256": "28c162e78309f9079709d5a455ea36bf9a05b38c3fbe5d750be657b14eaa9611",
     "notlar": ""
   },
-  "uzatmalar": [],
-  "tavanlar": []
+  "engelli_arayuz": [
+    "1.2.0"
+  ],
+  "uzatmalar": [
+    "ODU1-eyJiIjoiMjAyNy0wOS0zMCIsImsiOiIxMjM0NTYiLCJzIjoiT0RQLTEyMzQ1Ni0xIn0.Y50gZvvPJt0ULQha-Dg35T7gvZpr0EZGtD8f6UwHMe2HjDwd_5umqRs76FgGT2JTWrr6kbH9Ng7jfvQ9o1GsCw"
+  ],
+  "tavanlar": [
+    "123456:2027-09-30"
+  ]
 }
